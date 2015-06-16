@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.example.all_inone_app.NewsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="236dp" />
+
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.example.all_inone_app.WeatherFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        />
+
+</LinearLayout>

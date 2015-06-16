@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name = "news_section">
+        <item >todays news</item>
+        <item >more news</item>
+        <item >cnn news</item>
+        <item >google news</item>
+        <item >yahoo news</item>
+    </string-array>  
+
+</resources>
